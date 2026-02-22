@@ -1,0 +1,5 @@
+Player URL:
+https://doraevekart.github.io/player/?list=https://raw.githubusercontent.com/doraevekart/5bbc3ccb7d91b20b/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/doraevekart/5bbc3ccb7d91b20b/refs/heads/master/github_master.m3u8
